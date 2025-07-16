@@ -29,7 +29,7 @@ public class Apple {
 	        System.out.println(str==str2);
 
 
-
+//
 	}
 
 }
